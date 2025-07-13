@@ -19,7 +19,6 @@ This project automates Linux user and group management using Bash and Python. It
 
 ### Bash Script
 
-```bash
 sudo ./user_mgmt.sh
 
 ### Python Script
